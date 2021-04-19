@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Piumi - SimpleUserInterface</string>
+    <string name="edit_massage">Entre a message</string>
+    <string name="button_send">Send</string>
+</resources>
